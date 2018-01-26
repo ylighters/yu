@@ -17,5 +17,6 @@ public @interface ControllerLog {
 
 	String value() default "";
 	int type() default 0;
-	
+
+
 }
